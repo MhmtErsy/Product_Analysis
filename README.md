@@ -31,3 +31,7 @@ Aynı zamanda Weka işlemleri .NET ortamında da kullanılabilmektedir.
 1-) TOOLS MENÜSÜNDEN => LIBRARY PACKAGE MANAGER => MANAGE "nuget packages for solutıon.." Kısmına tıklanır.
 
 2-) DAHA SONRA ARAMA KISMINA "Install-Package PıcNetML" YAZILDIKTAN SONRA ‘PICNETML’ PAKETİ YÜKLENİR VE BU IKVM DOSYALARI PROJEYE REFERANS OLARAK EKLENMİŞ OLUR.
+
+#Weka işlemlerini .NET ortamında yapabilmek için Weka'nın resmi sitesinde yer alan aşağıdaki tutorial'dan da faydalanabilirsiniz.
+https://weka.wikispaces.com/IKVM+with+Weka+tutorial
+# Mehmet Ersoy - 17.02.2018
