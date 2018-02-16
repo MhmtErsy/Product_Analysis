@@ -1,0 +1,11 @@
+@relation urun
+
+@attribute sicaklik numeric
+@attribute nem numeric
+@attribute yagis numeric
+@attribute deniz {TRUE, FALSE}
+@attribute urun {bugday,arpa,cilek,misir,pirinc,cay,zeytin,fasulye,findik,turuncgil,incir,uzum,muz}
+
+@data
+
+25,10,400,TRUE,?
