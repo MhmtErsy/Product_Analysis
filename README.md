@@ -1,4 +1,6 @@
 # Product_Analysis
+TARIM ÜRÜNLERİ ANALİZİ
+- Mehmet Ersoy-Ömer Batır / 2016 -
 
 Her tarım ürünü her bölgede yetiştirilemez. Ürünlerin yetişebildiği çeşitli iklim koşulları vardır.
 Bulunulan bölgeye elverişli olan tarım ürünü seçimi, o bölgenin çeşitli iklim koşulları göz önünde bulundurularak karar verilmelidir.
@@ -24,7 +26,7 @@ Weka, java dilinde yazılmış olmasından dolayı kolaylıkla java ortamında d
 Aynı zamanda Weka işlemleri .NET ortamında da kullanılabilmektedir.
 
 # NASIL ?
-# .NET ortamında Weka’yı kullanabilmek için IKVM denilen .NET ve Java’yı bir arada kullanılmasını sağlayan kütüphane referans olarak projeye dahil edilmelidir.
+# .NET ortamında Weka’yı kullanabilmek için IKVM denilen .NET ve Java’yı bir arada kullanılmasını sağlayan kütüphane referans olarak projeye dahil edilmelidir. Ancak içerisinde hem Weka kütüphanesini hem de IKVM'yi birlikte barındıran ve ayrı ayrı kurulumlar yapmamıza gerek kalmayan "PicNet ML" adlı bir kütüphane vardır. Bunu kurmamız yeterlidir.
 
 1-) TOOLS MENÜSÜNDEN => LIBRARY PACKAGE MANAGER => MANAGE "nuget packages for solutıon.." Kısmına tıklanır.
 
