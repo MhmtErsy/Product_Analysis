@@ -1,6 +1,6 @@
 # Product_Analysis
 TARIM ÜRÜNLERİ ANALİZİ
-- Mehmet Ersoy-Ömer Batır / 2016 -
+- Mehmet Ersoy-Ömer Batır / 2016
 
 Her tarım ürünü her bölgede yetiştirilemez. Ürünlerin yetişebildiği çeşitli iklim koşulları vardır.
 Bulunulan bölgeye elverişli olan tarım ürünü seçimi, o bölgenin çeşitli iklim koşulları göz önünde bulundurularak karar verilmelidir.
@@ -34,4 +34,4 @@ Aynı zamanda Weka işlemleri .NET ortamında da kullanılabilmektedir.
 
 #Weka işlemlerini .NET ortamında yapabilmek için Weka'nın resmi sitesinde yer alan aşağıdaki tutorial'dan da faydalanabilirsiniz.
 https://weka.wikispaces.com/IKVM+with+Weka+tutorial
-# Mehmet Ersoy - 17.02.2018
+# Mehmet Ersoy - Ömer Batır / Celal Bayar Üniversitesi-Yazılım Mühendisliği- Makine Öğrenmesi dönem projesi- 2016
